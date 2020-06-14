@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>backbtn.png</file>
+        <file>center.jpg</file>
+        <file>difficult.jpg</file>
+        <file>difficultbtn.png</file>
+        <file>easy.jpg</file>
+        <file>easybtn.png</file>
+        <file>endbtn.png</file>
+        <file>endgame.png</file>
+        <file>pix1.png</file>
+        <file>startbtn.png</file>
+        <file>startgame.png</file>
+        <file>通缉令.png</file>
+        <file>level1.png</file>
+        <file>mask1.png</file>
+        <file>mask2.png</file>
+        <file>mask3.png</file>
+        <file>mask1_1.png</file>
+        <file>mask1_2.png</file>
+    </qresource>
+</RCC>
